@@ -11,7 +11,7 @@ Dsa-
 
 
 1. Mock 2
-coding ->   https://near-ethernet-088.notion.siteMasai-Leave-Portal-18bcc3f496814fe7a31cd2a7076e807
+coding ->   https://near-ethernet-088.notion.site/Masai-Leave-Portal-18bcc3f496814fe7a31cd2a7076e807c
 Netlify -> https://teal-liger-ead976.netlify.app
 Dsa-
     i. Short Dsa Round ->
