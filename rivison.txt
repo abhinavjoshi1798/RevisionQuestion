@@ -1,0 +1,162 @@
+1. Mock 1
+coding ->  https://near-ethernet-088.notion.site/Creatives-Design-50c57a32127e4c00a7484e760106a6ed
+Netlify -> https://cerulean-sherbet-7c8225.netlify.app/
+Dsa-
+    i. Short Dsa Round ->
+        i. link-> https://oj.masaischool.com/contest/7989
+           Password-> dsam1r2
+    ii. long Dsa Round ->
+        i. link-> https://oj.masaischool.com/contest/7990
+           Password-> dsam1r3
+
+
+1. Mock 2
+coding ->   https://near-ethernet-088.notion.siteMasai-Leave-Portal-18bcc3f496814fe7a31cd2a7076e807
+Netlify -> https://teal-liger-ead976.netlify.app
+Dsa-
+    i. Short Dsa Round ->
+        i. link->  https://oj.masaischool.com/contest/8009
+           Password-> dsam2r2
+    ii. long Dsa Round ->
+        i. link-> https://oj.masaischool.com/contest/8010
+           Password-> dsam2r3
+
+
+1. Mock 3
+coding ->  https://near-ethernet-088.notion.site/The-Cat-Project-c9838a271b044dbfa614bd4680dafd90
+Netlify -> https://gleeful-granita-71bbe3.netlify.app
+Dsa-
+    i. Short Dsa Round ->
+        i. link-> https://oj.masaischool.com/contest/8061
+           Password-> masai012
+    ii. long Dsa Round ->
+        i. link-> https://oj.masaischool.com/contest/8060
+           Password-> masai345
+
+
+1. Mock 4
+coding ->  https://near-ethernet-088.notion.site/Mini-OYO-9d9ec6fab8f8460796955dd662310ca0
+            https://near-ethernet-088.notion.site/Mini-OYO-9d9ec6fab8f8460796955dd662310ca0
+Netlify -> https://gregarious-starlight-046ac2.netlify.app
+Dsa-
+    i. Short Dsa Round ->
+        i. link-> https://oj.masaischool.com/contest/8084
+           Password-> w3m4r2
+    ii. long Dsa Round ->
+        i. link-> https://oj.masaischool.com/contest/8085
+           Password-> w3m4r3
+
+1. Mock 5
+coding-cp ->  https://cp.masaischool.com/assignments/1171/view
+Dsa-
+    i. Short Dsa Round ->
+        i. link-> https://oj.masaischool.com/contest/8120
+           Password-> w3m5r2
+    ii. long Dsa Round ->
+        i. link-> https://oj.masaischool.com/contest/8118
+           Password-> w3m5r3
+
+
+1. Mock 6
+coding -> https://near-ethernet-088.notion.site/Recipe-App-48e73454a3964128965c549838e53013 
+Netlify -> https://frolicking-gelato-353a8e.netlify.app
+Dsa-
+    i. Short Dsa Round ->
+        i. link-> https://oj.masaischool.com/contest/8160
+           Password-> w4m6r2
+    ii. long Dsa Round ->
+        i. link-> https://oj.masaischool.com/contest/8163
+           Password-> w4m6r3
+
+1. Mock 7
+coding ->  https://near-ethernet-088.notion.site/Classic-Todo-App-caface7adab542178477aa2fdf39ae05
+Netlify -> https://mock7-three-indol.vercel.app
+Dsa-
+    i. Short Dsa Round ->
+        i. link-> https://oj.masaischool.com/contest/8193
+           Password-> w4m7r2
+    ii. long Dsa Round ->
+        i. link->  https://oj.masaischool.com/contest/8191
+           Password-> w4m7r3
+
+1. Mock 8
+coding ->  https://near-ethernet-088.notion.site/Movie-App-8cda29cdd66d4e92a321839b528751da
+Netlify -> https://mock8-sonu25122000.vercel.app/
+Dsa-
+    i. Short Dsa Round ->
+        i. link-> https://oj.masaischool.com/contest/8217
+           Password-> w4m8r2
+    ii. long Dsa Round ->
+        i. link-> 
+           Password-> 
+
+1. Mock 9 
+coding - cp -> https://cp.masaischool.com/assignments/1249/view 
+Dsa-
+    i. Short Dsa Round ->
+        i. link-> https://oj.masaischool.com/contest/8276
+           Password-> w5m9r2
+    ii. long Dsa Round ->
+        i. link-> https://oj.masaischool.com/contest/8277
+           Password-> w5m9r3
+
+1. Mock 10
+coding ->  https://near-ethernet-088.notionsiteExpense-Tracker-App-e9a1c10824784b1fbafbe57c53c7734d
+Dsa-
+    i. Short Dsa Round ->
+        i. link-> https://oj.masaischool.com/contest/8301
+           Password-> w5m10r2
+    ii. long Dsa Round ->
+        i. link-> https://oj.masaischool.com/contest/8299
+           Password-> w5m10r3
+
+1. Mock 11
+coding -> https://near-ethernet-088.notion.site/Number-Game-5dbce958e69e40bfbfc5198f8ccc3714
+Dsa-
+    i. Short Dsa Round ->
+        i. link-> https://oj.masaischool.com/contest/8330
+           Password-> w5m11r2
+    ii. long Dsa Round ->
+        i. link-> 
+           Password-> w5m11r3
+
+1. Mock 12
+coding ->  https://near-ethernet-088.notion.site/Grow-Calculator-3ef886be851e4fdca6bdbe02af694786
+Dsa-
+    i. Short Dsa Round ->
+        i. link-> https://oj.masaischool.com/contest/8362
+           Password-> w6m12r2
+    ii. long Dsa Round ->
+        i. link-> https://oj.masaischool.com/contest/8359
+           Password-> w6m12r3
+
+1. Mock 13
+coding ->  https://near-ethernet-088.notion.site/Masai-Hospital-FullStack-1a7677835d684445818156f098ca832c
+Dsa-
+    i. Short Dsa Round ->
+        i. link-> https://oj.masaischool.com/contest/8410
+           Password-> w6m13r2
+    ii. long Dsa Round ->
+        i. link-> https://oj.masaischool.com/contest/8407
+           Password-> w6m13r3
+
+1. Mock 14
+coding ->  https://near-ethernet-088.notion.site/Masai-Bank-a31e025ef96c49cdb4b4aba75aa05f39
+Dsa-
+    i. Short Dsa Round ->
+        i. link-> https://oj.masaischool.com/contest/8432
+           Password-> w6m14r2
+    ii. long Dsa Round ->
+        i. link-> https://oj.masaischool.com/contest/8429
+           Password-> w6m14r3
+
+1. Mock 15
+coding ->  https://near-ethernet-088.notion.site/Kanban-Board-FullStack-345fa78bfc8b470d8bde4925f1cb9b90
+Dsa-
+    i. Short Dsa Round ->
+        i. link-> https://oj.masaischool.com/contest/8485
+           Password-> w7m15r2
+    ii. long Dsa Round ->
+        i. link-> https://oj.masaischool.com/contest/8487
+           Password-> w7m15r3
+
