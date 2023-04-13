@@ -1,3 +1,5 @@
+  ----->   BLOCK 24  <-----
+
 1. Mock 1
 coding ->  https://near-ethernet-088.notion.site/Creatives-Design-50c57a32127e4c00a7484e760106a6ed
 Netlify -> https://cerulean-sherbet-7c8225.netlify.app/
@@ -159,4 +161,134 @@ Dsa-
     ii. long Dsa Round ->
         i. link-> https://oj.masaischool.com/contest/8487
            Password-> w7m15r3
+
+
+
+-------> BLOCK 23 <-------
+Mock-1
+
+R-1 => https://near-ethernet-088.notion.site/Infinite-Scrolling-46001615c34f4295a1f7307cf52b7830
+R-2 => https://oj.masaischool.com/contest/7447
+pass=> 29191
+R-3 =>  https://oj.masaischool.com/contest/7446
+pass=>  9109
+
+Mock-2
+
+R-1 => https://saber-columnist-50d.notion.site/NBA-Drafting-b4e2f003d6e842249d22631238da815f
+R-2 = > https://oj.masaischool.com/contest/7491
+pass=> 29100
+R-3 => https://oj.masaischool.com/contest/7492
+pass=> dsa123
+
+
+Mock-3
+
+R-1 =>CP
+R-2 = > https://oj.masaischool.com/contest/7548
+pass=> 20190
+R-3 => https://oj.masaischool.com/contest/7549
+pass=> 29100
+
+
+Mock-4
+
+R-1 => https://saber-columnist-50d.notion.site/Masai-Library-37f316b0abe54ea2a2d3c03e278c6bc4
+R-2 = > https://oj.masaischool.com/contest/7581
+pass=> 29109
+R-3 =>https://oj.masaischool.com/contest/7583
+pass=>20190
+
+Mock-5
+
+R-1 => https://near-ethernet-088.notion.site/Blog-App-504dba28ae6e4320a998ac6bee0c038f
+R-2 = > https://oj.masaischool.com/contest/7622/problems
+pass=> mock5
+R-3 => https://oj.masaischool.com/contest/7624
+pass=> mock666
+
+Mock-6
+
+R-1 => https://near-ethernet-088.notion.site/Pok-Dex-86912e4f764b4463ba275705f3851ebf
+R-2 = > https://oj.masaischool.com/contest/7654
+pass=> mock666
+R-3 => not qualified
+pass=> none
+
+
+Mock-7
+
+R-1 => https://near-ethernet-088.notion.site/Stock-Broker-ebb114eea4284fa5820ed520295ca7a4
+R-2 = > https://oj.masaischool.com/contest/7690
+pass=> dsam7r2
+R-3 => not qualified
+pass=> none
+
+
+Mock-8
+
+R-1 => https://saber-columnist-50d.notion.site/Mini-E-commerce-b97ab38ad51648ca83b222427c5493ff
+R-2 = > https://oj.masaischool.com/contest/7721
+pass=> dsam8r2
+R-3 => https://oj.masaischool.com/contest/7725
+pass=> dsam8r3
+
+Mock-9
+
+R-1 => https://saber-columnist-50d.notion.site/Masai-Quiz-418aafc21664437580212b45c5cfae9a
+R-2 = > https://oj.masaischool.com/contest/7779
+pass=> dsam9r2
+R-3 => NOT QUALIFIED
+pass=> NOT QUALIFIED
+
+
+Mock-10
+
+R-1 => https://saber-columnist-50d.notion.site/Masai-Quiz-418aafc21664437580212b45c5cfae9a
+R-2 = > https://oj.masaischool.com/contest/7794
+pass=> dsam10r3
+R-3 => https://oj.masaischool.com/contest/7795
+pass=> dsam10r3
+
+
+Mock-11
+
+R-1 =>https://near-ethernet-088.notion.site/Authentication-App-FullStack-8a3199b7b7d24b0181d112ece5c9ff92
+R-2 = > https://oj.masaischool.com/contest/7817
+pass=> m11r2
+R-3 => https://oj.masaischool.com/contest/7818
+pass=> m11r3
+
+
+Mock-12
+
+R-1 =>https://near-ethernet-088.notion.site/OLX-Classifieds-FullStack-5fdbd8316f584a7ebc2f43717011780d
+R-2 = > https://oj.masaischool.com/contest/7852
+pass=> m12r2
+R-3 => https://oj.masaischool.com/contest/7854 
+pass=> m12r3
+
+Mock-13
+
+R-1 =>https://saber-columnist-50d.notion.site/Masai-Word-game-964a6042892e43d28e246f10f38f0d55
+R-2 = >  https://oj.masaischool.com/contest/7893
+pass=> m13r2
+R-3 => https://oj.masaischool.com/contest/7894
+pass=> m13r3
+
+Mock-14
+
+R-1 =>https://saber-columnist-50d.notion.site/Bug-Tracker-389d9b16afc24e8ea051235b15533809
+R-2 = > https://oj.masaischool.com/contest/7919
+pass=> m14r2
+R-3 => not qualified
+pass=> not qualified
+
+Mock-15
+
+R-1 =>https://saber-columnist-50d.notion.site/Masai-Job-App-4ef33745a0de4cc4afa3cdad84d167c0
+R-2 = > https://oj.masaischool.com/contest/7957
+pass=> dsam15r2
+R-3 => not qualified
+pass=> not qualified
 
