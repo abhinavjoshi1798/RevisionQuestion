@@ -180,7 +180,7 @@ R-2 = > https://oj.masaischool.com/contest/7491
 pass=> 29100
 R-3 => https://oj.masaischool.com/contest/7492
 pass=> dsa123
-
+  
 
 Mock-3
 
