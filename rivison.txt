@@ -190,7 +190,7 @@ pass=> 20190
 R-3 => https://oj.masaischool.com/contest/7549
 pass=> 29100
 
-  
+   
 Mock-4
 
 R-1 => https://saber-columnist-50d.notion.site/Masai-Library-37f316b0abe54ea2a2d3c03e278c6bc4
