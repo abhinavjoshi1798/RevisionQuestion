@@ -196,7 +196,7 @@ R-1 => https://saber-columnist-50d.notion.site/Masai-Library-37f316b0abe54ea2a2d
 R-2 = > https://oj.masaischool.com/contest/7581
 pass=> 29109
 R-3 =>https://oj.masaischool.com/contest/7583
-pass=>20190
+pass=>20190 
 
 Mock-5
  
